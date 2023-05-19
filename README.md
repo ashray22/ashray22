@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashray22
+- 👋 Hi, I’m Ashray
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning And Deep Learning
 - 💞️ I’m looking to collaborate on ...
